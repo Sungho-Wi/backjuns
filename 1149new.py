@@ -19,3 +19,5 @@ for j in range(1, size + 1):
     DP.append([R, G, B])
 
 print(min(DP[-1][0], DP[-1][1], DP[-1][2]))
+
+#test test
