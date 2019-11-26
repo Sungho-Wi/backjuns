@@ -1,8 +1,8 @@
 # :: 백준 알고리즘::
 
 ## :capital_abcd: 사용 언어
-- Python
-- Java
+- C++ (Main)
+- Python (Sub)
 
 ## :rainbow: 단계별로 풀어보기
   
