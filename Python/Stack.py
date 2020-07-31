@@ -9,9 +9,10 @@ class Stack:
         return self.stack.pop()
 
 
-myStack = Stack()
-myStack.push('hello')
-myStack.push('world')
+if __name__ == "__main__":
+    myStack = Stack()
+    myStack.push('hello')
+    myStack.push('world')
 
-print(myStack.pop())
-print(myStack.pop())
+    print(myStack.pop())
+    print(myStack.pop())
